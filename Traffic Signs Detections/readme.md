@@ -1,1 +1,1 @@
-<image src="/pictures/example.gif" alt="example"><image>
+![](https://github.com/flantick/yolo_fine-tuning/blob/main/Traffic%20Signs%20Detections/pictures/example.gif)
